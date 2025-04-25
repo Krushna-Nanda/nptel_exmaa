@@ -705,4 +705,65 @@ D. Format, Version, Device type, Source
 
 ---
 
+MCQ-Focused Key Points:
+What is the main purpose of data fusion in IoT-enabled smart cities?
+
+A) To reduce energy consumption
+
+B) To improve decision-making by combining data from multiple sources
+
+C) To increase sensor efficiency
+
+D) To collect more data
+
+Which of the following is a challenge in data fusion for smart cities?
+
+A) High precision data
+
+B) Conflicts between different data sources
+
+C) Low cost of sensors
+
+D) Energy efficiency
+
+What is the main benefit of data fusion in autonomous vehicles?
+
+A) Reduces cost of vehicles
+
+B) Enhances decision-making by combining data from various sensors
+
+C) Increases vehicle speed
+
+D) Reduces traffic congestion
+
+Which of the following is NOT a functional layer in smart parking?
+
+A) Information Collection
+
+B) System Deployment
+
+C) Data Analytics
+
+D) Resource Allocation
+
+Which of these is a method used for energy management in smart cities?
+
+A) Using high-power transceivers
+
+B) Energy harvesting from ambient sources
+
+C) Reducing data collection
+
+D) High-frequency data transmission
+
+Which technology is used for decision-making in IoT systems?
+
+A) AI (Artificial Intelligence) like Machine Learning (ML) and Artificial Neural Networks (ANN)
+
+B) Blockchain
+
+C) Quantum computing
+
+D) Grid computing
+
 Want a PDF version of these for revision or want more questions?
