@@ -563,3 +563,146 @@ Here are some **exam-specific MCQs** based on the **M2M Communication** module f
 ---
 
 These MCQs and direct questions are tailored to cover the key aspects of the module. They focus on concepts that are likely to be asked in the exam, so studying these thoroughly will help you prepare effectively. Let me know if you need further assistance!
+
+Here are **15 MCQs** based on the Interoperability topic from the NPTEL IoT lecture slides you shared. These are exam-style questions (with 1 correct option per question).
+
+---
+
+### **MCQs on Interoperability in IoT**
+
+**1. What does interoperability in IoT primarily aim to achieve?**  
+A. Cost reduction in devices  
+B. Smooth interaction between heterogeneous systems  
+C. Device manufacturing automation  
+D. Energy efficiency  
+✅ **Answer: B**
+
+---
+
+**2. Which of the following is NOT a reason why interoperability is required in IoT?**  
+A. Different communication protocols  
+B. Homogeneous hardware platforms  
+C. Different operating systems  
+D. Different data representations  
+✅ **Answer: B**
+
+---
+
+**3. What type of interoperability concerns communication between a user and a device?**  
+A. Semantic  
+B. Syntactic  
+C. User  
+D. Device  
+✅ **Answer: C**
+
+---
+
+**4. Which of the following is an example of syntactic interoperability?**  
+A. Understanding the language used in data  
+B. Matching data formats  
+C. Sharing physical components  
+D. Device manufacturing process  
+✅ **Answer: B**
+
+---
+
+**5. Which unique identification system is designed specifically for electronic products?**  
+A. IP Address  
+B. EPC  
+C. URL  
+D. MAC Address  
+✅ **Answer: B**
+
+---
+
+**6. What does ‘semantic interoperability’ focus on?**  
+A. Data format compatibility  
+B. User interface matching  
+C. Meaning of the data exchanged  
+D. Network speed  
+✅ **Answer: C**
+
+---
+
+**7. Which of the following is an example of middleware used for device interoperability?**  
+A. HTML  
+B. REST API  
+C. UMB  
+D. MySQL  
+✅ **Answer: C**
+
+---
+
+**8. What does UMB-A stand for in UMB architecture?**  
+A. Universal Metadata Base Adapter  
+B. Universal Middleware Bridge Adapter  
+C. Unified Middleware Backup  
+D. Unified Message Broker Adapter  
+✅ **Answer: B**
+
+---
+
+**9. Which layer of UMB is responsible for routing messages?**  
+A. UMB Adapter  
+B. UMB Core  
+C. UMB Agent  
+D. UMB Server  
+✅ **Answer: B**
+
+---
+
+**10. What standard provides a global classification of products and services?**  
+A. UPC  
+B. EPC  
+C. UNSPSC  
+D. IP Address  
+✅ **Answer: C**
+
+---
+
+**11. What is the primary goal of a Universal Device Template (UDT)?**  
+A. Encrypt messages  
+B. Classify user behavior  
+C. Virtually represent devices  
+D. Compress device data  
+✅ **Answer: C**
+
+---
+
+**12. Which of these is a *closed* standard protocol?**  
+A. IEEE 802.15.4  
+B. IEEE 802.11  
+C. Z-Wave  
+D. 6LoWPAN  
+✅ **Answer: C**
+
+---
+
+**13. What kind of problem arises when devices cannot understand each other’s messages due to different message formats?**  
+A. Semantic problem  
+B. Physical layer problem  
+C. Syntactic problem  
+D. Device failure  
+✅ **Answer: C**
+
+---
+
+**14. Which is used for semantic interoperability in IoT?**  
+A. IPv6  
+B. RESTful APIs  
+C. Ontologies  
+D. XML  
+✅ **Answer: C**
+
+---
+
+**15. The "cosign" representation in semantic interoperability includes which of the following elements?**  
+A. Device ID, Network ID  
+B. Object type, Physical location  
+C. Internal ID, Natural language, Context, Definition  
+D. Format, Version, Device type, Source  
+✅ **Answer: C**
+
+---
+
+Want a PDF version of these for revision or want more questions?
